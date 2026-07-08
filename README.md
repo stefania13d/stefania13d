@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Stefania 🌸
 
-<!--
-**stefania13d/stefania13d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior IT graduate interested in web development, databases, and AI-powered applications.
 
-Here are some ideas to get you started:
+I enjoy building practical web apps with Python, Flask, HTML, CSS, JavaScript, and MySQL.  
+I am currently focused on improving my skills through personal projects and learning more about AI, data analysis, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Master's graduate in Applied Information Technology in Industry
+- 💻 Interested in web development, databases, and AI/NLP applications
+- 🧠 Currently working with Python, Flask, MySQL, and machine learning concepts
+- 🎨 I also enjoy art, design, and creating visually clean interfaces
+- 📍 Based in Bacău, Romania
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-FFE6F0?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-F5F5F5?style=for-the-badge&logo=flask&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-E6F0FF?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-FFE8D6?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-E8F0FF?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF7C2?style=for-the-badge&logo=javascript&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-FCE4EC?style=for-the-badge&logo=git&logoColor=F05032)
